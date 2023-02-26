@@ -120,7 +120,6 @@ function App() {
 
   const clickUser = (event: MouseEvent<HTMLButtonElement>): void => {
     event.preventDefault()
-    console.log(inputData)
   }
 
   return (
